@@ -1,7 +1,7 @@
 public class Temp {
 public static void main(String []args) {
  int a=10, b=15;
- System.out.println("Before sawp:a="+a+",b="+b="");  
+ System.out.println("Before sawp:a="+a+",b="+b+"");  
  int temp=a;
  a=b;
  b=temp;
